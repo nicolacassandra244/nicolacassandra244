@@ -16,7 +16,7 @@ Sono un **CyberSecurity Specialist**, determinato a proteggere le infrastrutture
 
 ### 📂 I miei Progetti e Portfolio
 Ho strutturato i miei laboratori pratici per dimostrare le mie competenze operative. Puoi esplorare le architetture e le configurazioni nella mia repository principale:
-👉 **[Visita la mia Repository dei Progetti](LINK_ALLA_TUA_REPO_PROGETTI)**
+👉 **[Visita la mia Repository dei Progetti]((https://github.com/nicolacassandra244/nicolacassandra244/tree/main/Progetti))**
 
 *Progetti in evidenza:*
 - 🏴‍☠️ **Advanced Black-Box Penetration Test & Remediation:** Ho condotto un'attività di Red Teaming su un server Linux vulnerabile, completando l'intera kill-chain fino all'ottenimento dei privilegi di root. L'attacco ha richiesto il concatenamento di diverse vulnerabilità, tra cui SQL Injection (SQLMap), XSS , Password Cracking offline (John The Ripper) ed estrazione di dati tramite Steganografia. Per aggirare le difese perimetrali ho inoltre analizzato e riprodotto complesse sequenze di Port Knocking. Il progetto include un report tecnico esecutivo contenente le raccomandazioni di sicurezza (Remediation) per mitigare le vulnerabilità sfruttate.
